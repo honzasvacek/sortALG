@@ -1,4 +1,4 @@
-public class CeleCislo extends UmiSeTridit{
+public class CeleCislo implements UmiSeTridit{
     int cislo;
 
     public CeleCislo(int cislo) {

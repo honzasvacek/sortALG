@@ -1,3 +1,3 @@
-public abstract class UmiSeTridit {
-    public abstract boolean jsemVetsiNez(UmiSeTridit b);
+public interface UmiSeTridit {
+    public boolean jsemVetsiNez(UmiSeTridit b);
 }
